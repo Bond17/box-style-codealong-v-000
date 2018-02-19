@@ -39,7 +39,9 @@ figcaption {
 }
 
 /*////////// BACKGROUNDS //////////*/
-
+.white-wood {
+  backround: url(../images/white-wood.jpg);
+}
 
 
 /*/////// MEDIA ////////*/
