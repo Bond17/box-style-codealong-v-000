@@ -29,11 +29,11 @@ figcaption {
 }
 
 .shadow {
-  box-shadow: 0 3px 10 px #333
+  box-shadow: 0 3px 10 px #333;
 }
 
 .border-right {
-
+  border-right: 1px dotted ##ccc;
 
 }
 
